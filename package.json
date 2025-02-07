@@ -1,0 +1,16 @@
+{
+  "name": "projeto-pratico",
+  "version": "1.0.0",
+  "main": "html-escaper.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cli-color": "^2.0.4"
+  }
+}
